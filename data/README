@@ -12,4 +12,3 @@ Allowable optional folders in `data` could be:
 - shell_biomass 
   
 It is recommended only to add additional folders if there are more than 10 different datasets (this is **NOT** normal for one individual repository project). 
-
