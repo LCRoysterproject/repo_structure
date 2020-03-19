@@ -13,7 +13,7 @@ Optional folders:
 Naming conventions for figures (species_location_type_summary.filetype):  
   
 map:  
-oys_lco8a_map_transect.tiff (oyster transect on reef element LCO8A map) 
+oys_lco8a_map_transect.tiff (oyster transect on reef element LCO8A map)  
 bird_bb_map_survey.tiff (bird surveys in the Big Bend map)  
 invert_bb_map_quadrat.tiff (minverts sampled through quadrats in the Big Bend map)
   
@@ -36,6 +36,6 @@ salinity_temp_lcr_fig_2018_2020_dailymeans.jpeg (LCR salinity and temperature da
   
 photo:  
 oys_bar_lcr_photo_1941.jpeg (LCR oyster bar 1941 photo)  
-oys_bar_lcr_photo_2017.jpeg (LCR oyster bar 2017 photo) 
+oys_bar_lcr_photo_2017.jpeg (LCR oyster bar 2017 photo)  
 oys_corrigans_photo_growth_20190701.tiff (Corrigans oyster new growth photo taken on July 1st, 2019)
 
