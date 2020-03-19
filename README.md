@@ -10,3 +10,6 @@ Mandatory folders for all repositories are, which are included in this skeleton 
 - script  
 - writing  
   
+Each of the above mandatory folders include naming conventions and additional optional/mandatory folders. Every folder **MUST** contain a README.md that will describe the folder and its contents. The README.md **MUST** also include file usage information, if necessary. 
+  
+### RPRoject  
