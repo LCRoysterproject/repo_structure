@@ -12,4 +12,6 @@ Mandatory folders for all repositories are, which are included in this skeleton 
   
 Each of the above mandatory folders include naming conventions and additional optional/mandatory folders. Every folder **MUST** contain a README.md that will describe the folder and its contents. The README.md **MUST** also include file usage information, if necessary. 
   
-### RPRoject  
+### RPRoject (repo_structure.Rproj)  
+  
+Every repository is required to have an Rproject. An Rproject is used to create an ecosystem that connects all folders and files within the respository. 
