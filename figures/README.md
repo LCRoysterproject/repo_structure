@@ -2,7 +2,7 @@ This is the `figures` folder structure outline. The `figures` folder will includ
   
  If there are more than 10 figures and/or tables, categorize them by applicable folders.  
 
-Optional folders:  
+Optional folder examples:  
 - map  
 - species_model (e.g., oys, invert, fish, bird, oys_spat)  
 - table  
