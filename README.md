@@ -5,8 +5,7 @@ Every folder and file is required to be in lowercase, no uppercase (camelcase) o
   
 Mandatory folders for all repositories are, which are included in this skeleton repo structure:  
 - data  
-- figures  
+- figures (`figures` includes tables and figures used for writing and presentations)  
 - script  
 - writing  
   
- * `figures` includes tables and figures used for writing and presentations. 
