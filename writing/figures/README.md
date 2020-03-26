@@ -14,7 +14,7 @@ Naming conventions for figures (study_location_type_summary.filetype):
 map:  
 oys_lco8a_map_transect.tiff (oyster transect on reef element LCO8A map)  
 bird_bb_map_survey.tiff (bird surveys in the Big Bend map)  
-invert_bb_map_quadrat.tiff (minverts sampled through quadrats in the Big Bend map)
+invert_bb_map_quadrat.tiff (inverts sampled through quadrats in the Big Bend map)
   
 species_model:  
 oys_lcr_fig_glm_strata.png (glm oyster analysis by LCR strata fig)  
