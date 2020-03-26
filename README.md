@@ -2,10 +2,10 @@
 This is the mandatory framework repository to outline all new GitHub repositories in the LCR project. The outlined structure of this repository can be downloaded and copied at the start of a new repository. A repository is specific to an individual project within the LCR project. Each repository is stand alone, and not reliant on any other repository. 
 
 ### Naming Standards for each Repository  
-Repositories are named in the following format: 
+Repositories are named in the following format:   
 study_location_projectsummary  
   
-Examples: 
+Examples:  
 bird_bb_monitoring (Big Bend camera and survey bird monitoring project)  
 oys_fl_shiny_app_landings (Florida oysters landings Shiny App)  
 lcr_quarterly_report (LCR repository for quarterly reports)  
