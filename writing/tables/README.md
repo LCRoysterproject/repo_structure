@@ -1,6 +1,6 @@
 This is the `tables` folder structure outline. The `tables` folder will include script outputs of summary tables. 
   
-Naming conventions for tables (species_location_summary.filetype): 
+Naming conventions for tables (study_location_summary.filetype): 
 
 wq_lcr_inshore_vs_offshore.csv (LCR water quality inshore and offshore comparison)  
 oys_lcr_strata_den.csv (LCR strata oyster density table)  

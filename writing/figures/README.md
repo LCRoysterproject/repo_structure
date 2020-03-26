@@ -4,7 +4,7 @@ This is the `figures` folder structure outline. The `figures` folder will includ
 
 Optional folder examples:  
 - map  
-- species_model (e.g., oys, invert, fish, bird, oys_spat)   
+- study_model (e.g., oys, invert, fish, bird, oys_spat, wq)   
 - water (e.g., discharge, salinity, temp)  
 - photo  
   
@@ -16,7 +16,7 @@ oys_lco8a_map_transect.tiff (oyster transect on reef element LCO8A map)
 bird_bb_map_survey.tiff (bird surveys in the Big Bend map)  
 invert_bb_map_quadrat.tiff (inverts sampled through quadrats in the Big Bend map)
   
-species_model:  
+study_model:  
 oys_lcr_fig_glm_strata.png (glm oyster analysis by LCR strata fig)  
 oys_lcr_fig_glm_strata_water_int.jpeg (glm oyster analysis by LCR strata with water interaction fig) 
 fish_inshore_fig_glm_bayes_post_check.png (inshore fish Bayesian glm analysis posterior distribution check fig)    
