@@ -16,3 +16,15 @@ Allowable optional folders in `data` could be:
 - shell_biomass 
   
 It is recommended only to add additional folders if there are more than 10 different datasets (this is **NOT** normal for one individual repository project). 
+  
+### General Data Do’s and Don’ts  
+For all data collected, the methods, instruments, and protocol summaries used for data collection must be included in the README.md.    
+  
+### Color and format  
+Excel files should **NOT** contain any color formatting, comments, formulas, graphs, signatures, or designs. These datasets will be returned to the submitter to clear the formatting. These features may not migrate into new file formats and may get lost.  
+  
+### Blanks  
+Please do not leave cells blank. Blank cells leave a lot up for interpretation-- are the data missing? Was it not collected? Did something go wrong? Therefore, if there is no information available, use “N_A” for character values and “-999” for numerical values.  
+  
+### Headers  
+All headers, variables, and columns must be defined, and units should be provided, no uppercase or spaces between words. Define any acronyms or abbreviations used in the dataset in the README.md. An outside user should be able to understand your dataset using this information.
