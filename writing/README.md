@@ -12,6 +12,6 @@ Mandatory folders in `writing` are:
 Optional folders in `writing` could be:  
 - abstract (for paper, conferences, etc)  
 - manuscript (thesis, journal article, chapter, etc)  
-- edits (edits received for any writing)  
+- edits (edits received for any writing, mostly used in case of several co-authors, reviews or rebuttals from journals)  
 - report (usually an output or compilation for meeting, conference, or internal)  
 - figure_descriptions  
