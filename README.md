@@ -1,8 +1,8 @@
 # repo_structure
-This is the mandatory framework repository to outline all new GitHub repositories in the LCR project. The outlined structure of this repository can be downloaded and copied at the start of a new repository. A repository is specific to an individual project within the LCR project. Each repository is stand alone, and not reliant on any other repository. 
+This is the mandatory framework repository to outline all new GitHub repositories in the LCR project. The outlined structure of this repository can be downloaded and copied at the start of a new repository. A repository is specific to an individual project within the LCR project. Each repository is stand alone, and not reliant on any other repository.
   
 ### Permissions 
-Only LCRoysterproject `Admins` have full access to every repository. Additional collaborators can be added in the repository through branches and to review/create pull requests to update the protected `master` branch. Every repository starts with a protected `master` branch and each collaborator will have their own individual branch (refer to the Github Workflow documentation).  
+Only LCRoysterproject `Admins` have full access to every repository. Additional collaborators can be added in the repository through branches and to review/create pull requests to update the protected `master` branch. Every repository starts with a protected `master` branch and **each collaborator will have their own individual branch** (refer to the Github Workflow documentation).  
 
 ### Naming Standards for each Repository  
 Repositories are named in the following format:   
