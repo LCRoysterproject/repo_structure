@@ -2,8 +2,8 @@
 This is the mandatory framework repository to outline all new GitHub repositories in the LCR project. The outlined structure of this repository can be downloaded and copied at the start of a new repository. A repository is specific to an individual project within the LCR project. Each repository is stand alone, and not reliant on any other repository.
   
 ### Permissions 
-Only LCRoysterproject `Admins` have full access to every repository. Additional collaborators can be added in the repository through branches and to review/create pull requests to update the protected `master` branch. Every repository starts with a protected `master` branch and **each collaborator will have their own individual branch** (refer to the Github Workflow documentation).  
-
+Only LCRoysterproject `Admins` have full access to every repository. Additional collaborators can be added in the repository through branches and to review/create pull requests to update the protected `master` branch. Every repository starts with a protected `master` branch and **each collaborator will have their own individual branch** (refer to the Github Workflow documentation). Individual branches will be named after the collaborators 1st initial, middle initial (if wanted), and last name, in all lowercase (e.g., Jennifer Moore - jmoore, Bill Pine - bpine, Melissa Moreno - mmoreno, Tyler Steven Coleman - tscoleman, Stephen Parker - sparker).
+  
 ### Naming Standards for each Repository  
 Repositories are named in the following format:   
 study_location_projectsummary  
@@ -25,7 +25,7 @@ Mandatory folders for all repositories are, which are included in this skeleton 
 - data  
 - script  
 - writing  
-
+  
 Each of the above mandatory folders include naming conventions and additional optional/mandatory folders. Every folder **MUST** contain a README.md that will describe the folder and its contents. The README.md **MUST** also include file usage information, if necessary. 
   
 ### Rproject (repo_structure.Rproj)  
