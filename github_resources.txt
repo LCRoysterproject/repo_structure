@@ -1,0 +1,16 @@
+GitHub resources:
+
+- R Studio and Github 
+https://happygitwithr.com/
+
+- GitHub workflow
+https://guides.github.com/introduction/flow/
+
+- Free GitHub course
+https://lab.github.com/githubtraining/introduction-to-github
+
+- Cheat Sheet
+https://education.github.com/git-cheat-sheet-education.pdf
+
+- More commands
+https://www.geeksforgeeks.org/list-useful-github-commands/
